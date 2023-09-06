@@ -7,16 +7,18 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_6E02C67","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_427184A1","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_9E11643","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_2F9308","path":"rooms/Room3/Room3.yy",},
+    {"name":"inst_541764AB","path":"rooms/Room3/Room3.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6E02C67","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"colision","path":"objects/colision/colision.yy",},"properties":[],"rotation":0.0,"scaleX":22.5,"scaleY":2.0,"x":-64.0,"y":640.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_427184A1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"tp_3","path":"objects/tp_3/tp_3.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1888.0,"y":1024.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_9E11643","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_1","path":"objects/Obj_1/Obj_1.yy",},"properties":[],"rotation":0.0,"scaleX":0.8114286,"scaleY":0.76380956,"x":128.0,"y":608.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2F9308","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"colision","path":"objects/colision/colision.yy",},"properties":[],"rotation":0.0,"scaleX":22.0,"scaleY":2.0,"x":-32.0,"y":640.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_541764AB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"tp_3","path":"objects/tp_3/tp_3.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1248.0,"y":672.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"fondo3","path":"sprites/fondo3/fondo3.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
