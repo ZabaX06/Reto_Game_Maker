@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Billete",
-    "path": "sprites/Billete/Billete.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
